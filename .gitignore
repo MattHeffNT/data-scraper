@@ -142,4 +142,3 @@ bin/python
 bin/python3
 bin/python3.10
 bin/tqdm
-.gitignore
