@@ -11,3 +11,4 @@ created with vanilla Python virtual environment. To install in your local enviro
 ### To Do
 
 - scrape through each link that's returned and export data to an excel/csv file
+- compile to exe so it's easy to just run for non-techies
